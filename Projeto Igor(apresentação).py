@@ -157,8 +157,8 @@ st.markdown('<h2 class="section-title">3. Top 3 Assessores em Produção</h2>', 
 
 advisors = [
     ("🥇 Johannes Schoof", "Condado", "R$ 126.610", "4", "Igor Sobroza", "gold"),
-    ("🥈 Gabriel Correia", "Les Gars", "R$ 138.880", "4", "Igor Sobroza", "silver"),
-    ("🥉 Bernardo Cordeiro", "Les Gars", "R$ 110.864", "4", "Igor Sobroza", "bronze"),
+    ("🥈 Gabriel Correia", "Les Gars", "R$ 71.559", "4", "Igor Sobroza", "silver"),
+    ("🥉 Bernardo Cordeiro", "Les Gars", "R$ 64.481", "4", "Igor Sobroza", "bronze"),
 ]
 
 for name, branch, pa, proposals, specialist, cls in advisors:
@@ -213,3 +213,4 @@ st.markdown(f"""
 <p><strong>Apresentação Executiva • Icatu Seguros</strong></p>
 </div>
 """, unsafe_allow_html=True)
+
