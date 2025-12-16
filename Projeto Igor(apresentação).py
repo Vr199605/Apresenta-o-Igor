@@ -102,7 +102,7 @@ with col1:
     st.markdown("""
     <div class="metric-card">
         <h3>PA Total</h3>
-        <h1>R$ 1.912.452</h1>
+        <h1>R$ 1.997.761</h1>
         <p>Produção acumulada no período</p>
     </div>
     """, unsafe_allow_html=True)
@@ -213,4 +213,5 @@ st.markdown(f"""
 <p><strong>Apresentação Executiva • Icatu Seguros</strong></p>
 </div>
 """, unsafe_allow_html=True)
+
 
